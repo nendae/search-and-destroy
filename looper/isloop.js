@@ -2,7 +2,7 @@
 
 //Complete this algo
 const isLoop = (linkedlist) => {
-
+  
 };
 
 
